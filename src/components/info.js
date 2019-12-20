@@ -1,9 +1,7 @@
 import React from "react"
 
 import {
-  FaTwitter as Twitter,
-  FaGithub as Github,
-  FaYoutube as Youtube,
+  FaFacebook as Facebook,
   FaInstagram as Insta,
   FaEnvelope as Mail,
 } from "react-icons/fa"
@@ -16,31 +14,16 @@ export default function info() {
         <span style = {{color : "white"}}>NOVIDADES</span> <br />
         2020
       </div>
-      <div className="h1 code mt-4 mb-3">Lançamentos Exclusivos nos aguardam dia 6 de Janeiro</div>
-      <div className="text-muted mx-5 my-4 h3 text-justify info">
-        A Passionate Front-end Developer, UI/UX Enthusiast, Android Geek and Web
-        Developer.
-        <br /> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et.
-      </div>
-      <div className="h1 code mt-2 mb-3">{"}"}</div>
+      <div className="h1 code mt-4 mb-3">Lançamentos Exclusivos</div>
+      <div className="h1 code mt-4 mb-3">nos aguardam dia 6 de Janeiro</div>
       <div className="h1 mt-5">
-        <a className="mr-5 icon" href="https://twitter.com/Mr404Found">
-          <Twitter />
-        </a>
         <a className="mr-5 icon" href="https://instagram.com/ziromoda">
           <Insta />
         </a>
-        <a className="mr-5 icon" href="https://github.com/Mr404Found">
-          <Github />
+        <a className="mr-5 icon" href="https://facebook.com/ziromodabr">
+          <Facebook />
         </a>
-        <a
-          className="mr-5 icon"
-          href="https://www.youtube.com/channel/UCw0FDIL-HpcfzEZrjcQwhMQ"
-        >
-          <Youtube />
-        </a>
-        <a className="mr-5 icon" href="mailto://contactmr404here@gmail.com">
+        <a className="mr-5 icon" href="mailto://contato@ziromoda.com.br">
           <Mail />
         </a>
       </div>
