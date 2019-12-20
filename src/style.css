@@ -14,8 +14,21 @@ body {
   font-family: "Poppins", sans-serif !important;
 }
 
+.display-4 {
+  text-align: center;
+}
+
+.mt-5 {
+  text-align: center;
+}
+
+.nav-item {
+  font-size: 40px !important;
+}
+
 .code {
   font-family: "Source Code Pro", monospace;
+  text-align: center;
 }
 
 .info {
