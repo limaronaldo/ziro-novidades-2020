@@ -10,7 +10,7 @@ export default function info() {
   return (
     <div className="container">
       <div className="my-5"></div>
-      <div className="display-3" style={{ color: "#FF8A00" }}>
+      <div className="display-3" style={{ color: "#f7ed4a" }}>
         <span style = {{color : "white"}}>NOVIDADES</span> <br />
         2020
       </div>
