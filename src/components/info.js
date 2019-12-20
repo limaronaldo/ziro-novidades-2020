@@ -13,10 +13,10 @@ export default function info() {
     <div className="container">
       <div className="my-5"></div>
       <div className="display-3" style={{ color: "#FF8A00" }}>
-        <span style = {{color : "white"}}>Hello, I'm</span> <br />
-        Sumanth.
+        <span style = {{color : "white"}}>NOVIDADES</span> <br />
+        2020
       </div>
-      <div className="h1 code mt-4 mb-3">async {"{"}</div>
+      <div className="h1 code mt-4 mb-3">Lançamentos Exclusivos nos aguardam dia 6 de Janeiro</div>
       <div className="text-muted mx-5 my-4 h3 text-justify info">
         A Passionate Front-end Developer, UI/UX Enthusiast, Android Geek and Web
         Developer.
@@ -28,7 +28,7 @@ export default function info() {
         <a className="mr-5 icon" href="https://twitter.com/Mr404Found">
           <Twitter />
         </a>
-        <a className="mr-5 icon" href="https://instagram.com/sumanth.zero7">
+        <a className="mr-5 icon" href="https://instagram.com/ziromoda">
           <Insta />
         </a>
         <a className="mr-5 icon" href="https://github.com/Mr404Found">
